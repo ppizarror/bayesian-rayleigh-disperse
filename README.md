@@ -1,2 +1,2 @@
-# bayesian-rayleigh-disperse
-Bayesian filthering on disperse curve using rayleigh waves
+# Bayesian rayleigh disperse
+Bayesian filtering on disperse curve using rayleigh waves.
