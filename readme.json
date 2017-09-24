@@ -1,9 +1,9 @@
 {
     "PROJECT": {
-        "NAME": "Arias Intensity",
+        "NAME": "Bayesian rayleigh disperse",
         "ICON": {
             "IMAGE": "http://ppizarror.com/resources/other/matlab.png",
-            "ALT": "Arias Intensity",
+            "ALT": "Bayesian rayleigh disperse",
             "WIDTH": 200,
             "HEIGHT": 200
         },

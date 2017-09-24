@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="Arias Intensity" src="http://ppizarror.com/resources/other/matlab.png" width="200px" height="200px" />
+  <img alt="Bayesian rayleigh disperse" src="http://ppizarror.com/resources/other/matlab.png" width="200px" height="200px" />
   <br /><br />
-  Arias Intensity</h1>
+  Bayesian rayleigh disperse</h1>
 <p align="center">Bayesian filtering on disperse curve using rayleigh waves</p>
 <div align="center"><a href="http://ppizarror.com"><img alt="@ppizarror" src="http://ppizarror.com/badges/author.svg" /></a>
 <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"><img alt="GPL V2.0" src="http://ppizarror.com/badges/licensegpl2.svg" /></a>
