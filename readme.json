@@ -2,7 +2,7 @@
     "PROJECT": {
         "NAME": "Bayesian rayleigh disperse",
         "ICON": {
-            "IMAGE": "http://ppizarror.com/resources/other/matlab.png",
+            "IMAGE": "https://res.ppizarror.com/other/matlab.png",
             "ALT": "Bayesian rayleigh disperse",
             "WIDTH": 200,
             "HEIGHT": 200
@@ -12,7 +12,7 @@
     },
     "AUTHOR": {
         "NAME": "Pablo Pizarro R.",
-        "URL": "http://ppizarror.com",
+        "URL": "https://ppizarror.com",
         "ALT": "ppizarror",
         "DATE": "2017",
         "SECTION": {
@@ -23,12 +23,12 @@
     "DESCRIPTION": "Bayesian filtering on disperse curve using rayleigh waves",
     "BADGES": {
         "0": {
-            "IMAGE": "http://ppizarror.com/badges/author.svg",
-            "HREF": "http://ppizarror.com",
+            "IMAGE": "https://res.ppizarror.com/badges/author.svg",
+            "HREF": "https://ppizarror.com",
             "ALT": "@ppizarror"
         },
         "1": {
-            "IMAGE": "http://ppizarror.com/badges/licensegpl2.svg",
+            "IMAGE": "https://res.ppizarror.com/badges/licensegpl2.svg",
             "HREF": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
             "ALT": "GPL V2.0"
         }
